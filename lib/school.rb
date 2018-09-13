@@ -9,7 +9,7 @@ class School
   
   def roster
     if roster.length != 0
-      @roster.length
+     return  @roster.length
     end
   end
   
